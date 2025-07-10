@@ -12,8 +12,8 @@ This is a simple temperature sensor which can scan the surrounding temperature a
 
 BOM:
 
-1x Arduino Nano ESP32
-1x SHT1x Temperature Sensor
-2x 270 Ohm Resistors
-1x Push Button
+1x Arduino Nano ESP32 | 
+1x SHT1x Temperature Sensor | 
+2x 270 Ohm Resistors | 
+1x Push Button | 
 
