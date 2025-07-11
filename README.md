@@ -19,14 +19,15 @@ BOM:
 
 Schematic View:
 
-<img width="721" height="821" alt="Screenshot 2025-07-10 142852" src="https://github.com/user-attachments/assets/de1b12c9-0729-4052-acf0-c24dcba99e22" />
+<img width="817" height="746" alt="Screenshot 2025-07-10 224814" src="https://github.com/user-attachments/assets/c6884325-d0b7-4a4e-979e-a2ff802f1015" />
 
 
 PCB View:
 
-<img width="757" height="720" alt="Screenshot 2025-07-10 143004" src="https://github.com/user-attachments/assets/4dba5d53-46c4-4d90-a215-47180876fdf4" />
+<img width="833" height="727" alt="Screenshot 2025-07-10 224848" src="https://github.com/user-attachments/assets/30e72ac9-5d47-4add-8a60-ba4253e4371d" />
 
 
 3D View:
 
-<img width="805" height="712" alt="Screenshot 2025-07-10 143037" src="https://github.com/user-attachments/assets/4e446bf9-5003-41b4-8262-b56497df3a70" />
+<img width="736" height="728" alt="Screenshot 2025-07-10 224914" src="https://github.com/user-attachments/assets/21bbef70-ee86-4ce5-bb09-3ee9da597258" />
+
