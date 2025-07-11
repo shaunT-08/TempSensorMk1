@@ -14,6 +14,6 @@ BOM:
 
 1x Arduino Nano ESP32 | 
 1x SHT1x Temperature Sensor | 
-2x 270 Ohm Resistors | 
+2x 220 Ohm Resistors | 
 1x Push Button | 
 
