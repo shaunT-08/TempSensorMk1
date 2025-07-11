@@ -17,3 +17,16 @@ BOM:
 2x 220 Ohm Resistors | 
 1x Push Button | 
 
+Schematic View:
+
+<img width="721" height="821" alt="Screenshot 2025-07-10 142852" src="https://github.com/user-attachments/assets/de1b12c9-0729-4052-acf0-c24dcba99e22" />
+
+
+PCB View:
+
+<img width="757" height="720" alt="Screenshot 2025-07-10 143004" src="https://github.com/user-attachments/assets/4dba5d53-46c4-4d90-a215-47180876fdf4" />
+
+
+3D View:
+
+<img width="805" height="712" alt="Screenshot 2025-07-10 143037" src="https://github.com/user-attachments/assets/4e446bf9-5003-41b4-8262-b56497df3a70" />
